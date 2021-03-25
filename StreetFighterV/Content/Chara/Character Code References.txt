@@ -1,0 +1,33 @@
+Character Code references
+-------------------------
+VEG -- M.Bison (Dictator/Vega JP)
+BRD -- Birdie
+CMY -- Cammy White
+CNL -- Chun-Li
+DSM -- Dhalsim
+FAN -- F.A.N.G
+KEN -- Ken Masters
+KRN -- Karin Kanzuki
+LAR -- Laura Matsuda
+NCL -- Necalli
+NSH -- Charlie Nash
+RMK -- R.Mika
+RSD -- Rashid
+RYU -- Ryu
+BLR -- Vega (Claw/Balrog JP)
+ZGF -- Zangief
+ALX -- Alex
+GUL -- Guile
+IBK -- Ibuki
+BSN -- Balrog (Boxer/M.Bison JP)
+JRI -- Juri
+URN -- Urien
+Z21 -- Akuma
+Z20 -- Kolin
+Z22 -- Ed
+Z24 -- Abigail
+Z23 -- Menat
+Z25 -- Zeku
+Z26 -- Sakura
+Z27 -- Blanka
+Z28 -- Falke
